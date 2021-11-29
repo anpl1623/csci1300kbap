@@ -1,0 +1,25 @@
+[] INITIAL CONDITIONS
+  [] ask player to enter their name 
+  [] Player has option to buy things
+    [] computer parts
+    [] antivirus software
+    [] virtual private network
+    [] internet provider
+  [] then placed into server room
+  [] player initialized
+    [] frustration levels are set at zero
+      [] game ends if level reaches 100
+    []  starts with 200 dogecoins
+    []  has one computer 
+    []  internet provider starts at level 1
+    []  one vpn
+
+[] VISIT BEST BUY
+  [] COMPUTER PARTS. 
+    []If your computer breaks, you need 5 computer parts to make a new one.
+  [] ANTIVIRUS SOFTWARE. 
+    [] If your computer is infected with a virus, use the antivirus software to get rid of it.
+  []VIRTUAL PRIVATE NETWORK (VPN). 
+    [] The more VPNs you have the harder it is for a hacker to infect your computer with a virus.
+  [] INTERNET PROVIDER. 
+    [] The better the internet provider, the more reliable your hacking will be.
