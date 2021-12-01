@@ -35,8 +35,12 @@ string Hacker::getHackerName()
 // if the number is odd then the hacker is willing to fight
 int Hacker::willHackerFight()
 {
-  return 1;
+  int chance = rand() % 101;
+  if (chance % 2 == 0){
+    return 0;
+  } else return 1;
 }
+
 
 // randomly sets the next hacker position
 // returns the room number, and it randomly appears
